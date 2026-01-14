@@ -218,6 +218,8 @@ body {
     margin-top: 2rem;
     display: flex;
     justify-content: center;
+    width: 24px;
+    height: 24px;
 }
 
 .submit-btn {
@@ -321,3 +323,4 @@ body {
         font-size: 2rem;
     }
 }
+
